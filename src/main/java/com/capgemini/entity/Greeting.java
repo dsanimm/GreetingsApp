@@ -1,5 +1,7 @@
 package com.capgemini.entity;
 
+
+
 public class Greeting {
 public Greeting(long id, String message) {
 		super();
